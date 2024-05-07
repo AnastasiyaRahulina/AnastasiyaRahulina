@@ -1,17 +1,17 @@
 ### Hi there 👋, my name is Anastasiya
-#### I am Data Scientist and Medical Doctor
-I'm currently looking for my first job in Data Science. I had worked as a intensive care and anesthesia physician for more than 10 years, in addition to this I've done some scientific research, conducted clinical trials and translated medical literature.
-My journey into Data Science began 3 years ago, with learning Python (because that’s where it all starts, right?). Then there were courses from Coursera and Stepik, and then I was lucky to get on intensive course in mathematics
-and Python from the MathsHub school, at the end of which the best students received a Women in Tech grant to study in a large 1 year career program. I was one of the three lucky ones who get this grant. The course lasted a year in a very intensive mode. As a result, I was left with knowledge, many educational projects, new friends and the desire to continue to improve in Data Science.
-This repository contains my training, competition and some research projects.
+#### I am Data Scientist
+I'm currently looking for my first job in Data Science. 
+Due to my previous experience I have a deep understanding of the biomedical/healthcare domain.
+I graduated from the Data Science course at MathsHub International School, which was granted for me by the Women in Tech foundation. 
+I am a life-long learner and continue to study and practice DS with different courses and competitions.
+Here is my repository with projects I made.
 
-Всем привет! Меня зовут Настя, я из Беларуси.
-В настоящее время я ищу свою первую работу в  Data Science. Я врач анестезиолог-реаниматолог. 
-Проработала врачом более 10 лет, кроме этого занималась наукой (даже была включена в базу данных талантливой молодежи своей страны за научные достижения), вела клинические испытания лекарственных препаратов и делала переводы медицинской литературы.
-Мой путь в  Data Science начался 3 года назад, с изучения языка Python (потому что с этого все и начинается, правда?). Потом были курсы от Coursera и Stepik, а потом мне повезло попасть на бесплатный интесив по математике 
-и Python от школы MathsHub, в конце которого лучшие студентки получили грант Women in Tech на обучение на большой карьерной программе от школы MathsHub. Я оказалась одной из трех счастливиц. Курс длился год в очень интенсивном режиме. В итоге у меня остались знания, много учебных проектов, новые друзья и желание продолжать совершенствоваться в Data Science.
-В этом репозитории хранятся мои учебные, соревновательные и некоторые исследовательские проекты.
 
+Привет! Меня зовут Настя, я в начале своей карьеры в Data Science. Раньше я работала в медицине и науке, поэтому я хорошо разбираюсь в биомедицинском домене данных.
+Я окончила курсы по Data Science от международной школы MathsHub, благодаря стипендии от Women in Tech.
+Продолжаю учиться самостоятельно и оттачиваю свои навыки участвуя в различных соревнованиях.
+В этом репозитории хранятся мои проекты.
+Еще я веду телеграмм-канал о медицине, технологиях и саморазвитии. Если вам интересно, заходите на https://t.me/The_Data_Doc
 
 <br/>  
 
@@ -33,6 +33,21 @@ This repository contains my training, competition and some research projects.
 
 
 <br/>  
+<h3 align="left"> My Projects:</h3>
+
+| Name  | Summary | Tools |
+| ------------- | ------------- | ------------- |
+| [Women-in-Data-Science-Datathon-March-2024](https://github.com/AnastasiyaRahulina/Women-in-Data-Science-Datathon-March-2024) |This reposotory contains EDA, and predictive models build during participation in Women in Data Science Datathon 2024, Challenge #1 | XGBClassifier, RandomForestClassifier, GradientBoostingClassifier, CatBoostClassifier, SVM Classifier, Voting Classifier, Stacking Classifier, Cross-validation, RandomizedSearchCV, Optuna, Shap, SMOTE/SMOTE-NC, Autogluon |
+| [ESICM-Datathon-2023-Team-8](https://github.com/AnastasiyaRahulina/ESICM-Datathon-2023-Team-8) |This repository contains code, made during ESICM Datathon 2023. It includes code with EDA, dataset preparation for prediction model and for simulation model. | Feature Selection, Outliers detection and processing, SimPy simulation, Ensemble, Prediction modelling|
+| [Seoul_bike_rent_prediction_study_project](https://github.com/AnastasiyaRahulina/Seoul_bike_rent_prediction_study_project) | This repository contains study project on classical ML-algorithms/modelling. | Linear regression, Random Forest, Greadient Boosting, XGBoost, GridSerch, HyperOpt |
+|[Possums_Classification](https://github.com/AnastasiyaRahulina/Possums_Classification)  | Classification problem (sex prediction) using Possums Kaggle dataset. Extensive EDA and data preparation. Feature selection (manual and with different Sklearn tools). | Logistic regression, KNN, RandomForest, Gradient boosting, Custom Stacking, SelectKBest, SMOTE oversampling |
+| [Clustering_algorithms_study_projects](https://github.com/AnastasiyaRahulina/Clustering_algorithms_study_projects) | This repository contains unsupervised learning models, created by me during study on classic ML algorithms module. | K-means, hierarchical and Dbscan clustering|
+| [Healthy_eating_plate_bot](https://github.com/AnastasiyaRahulina/healthy_eating_plate_bot) | This bot was desinged accordingly to Harvard Healthy Eating Plate Guide for creating healthy, balanced meals. Bot will explain you the idea of Healthy plate and help you to choose you recipes accordingly your preffered ingredient. | BeautifulSoup, TeleBot, Requests, regular expressions, Parsing |
+| [EDA_airbnb_spatial_analysis](https://github.com/AnastasiyaRahulina/EDA_airbnb_spatial_analysis) | Блокнот с проектной работой по EDA датасета AirBnB, включающий анализ географических координат/EDA with geospatial visualisation | Pandas, Numpy, Folium, Seaborn, Matplotlib, SciPy, WordCloud |
+| [ML_from_scratch](https://github.com/AnastasiyaRahulina/ML_from_scratch) | This is a repository with different ML models made "from scratch" for study purposes for better understanding how model works. *will be updating | NumPy |
+| [Statistics_homework](https://github.com/AnastasiyaRahulina/Statistics_homework)  | Statistics analysis using t-test and chi-square test | Numpy, Pandas, Scipy, Matplotlib |
+
+
 
 
 
